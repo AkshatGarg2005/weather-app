@@ -75,6 +75,15 @@ h1 {
   .container{
     height: 700px;
   }
+  p{
+    font-size: 1.4rem; /* 1.6 */
+  }
+  h1{
+    font-size: 5.4rem; /* 6 */
+  }
+  .app input{
+    font-size: 1.2rem; /* 1.2 */
+  }
 }
 
 .app .top {
